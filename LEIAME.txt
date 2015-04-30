@@ -1,0 +1,24 @@
+Mod Chat_Admin:
+===============
+Desenvolvido por BrunoMine da comunidade minetestBR
+
+Dados:
+======
+Esse mod adiciona um sistema de prefixos nos nicks de jogadores com
+o privilegio 'chat_moderador' e para um jogador administrativo.
+
+Modo de usar:
+=============
+
+= Definindo o nickname do administrador
+Abra o arquivo init.lua nesse mod (utilize um editor de texto 
+para desenvolvimento) como o NotePad plus plus por exemplo.
+Em seguida edite a configure o nick do administrador e salve.
+
+= Definindo moderadores
+Para um jogador usar o chat como moderador basta que tenha o privilegio
+'chat_moderador'.
+Use o comando /grant <jogador> chat_moderador
+
+
+
