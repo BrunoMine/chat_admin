@@ -4,7 +4,7 @@
 --
 
 -- Nick do Administrador
-local NickAdmin = "BrunoMine"
+local NickAdmin = "singleplayer"
 
 minetest.register_privilege("chat_moderador", "Usar char como moderador")
 
