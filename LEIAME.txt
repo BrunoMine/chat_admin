@@ -1,6 +1,7 @@
 Mod Chat_Admin:
 ===============
 Desenvolvido por BrunoMine da comunidade minetestBR
+AVISO: Caso esse mod foi descontinuado, recomendasse o mod multichat para substitui-lo
 
 Dados:
 ======
